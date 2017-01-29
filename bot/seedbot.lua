@@ -229,7 +229,7 @@ function create_config( )
     "whitelist",
     "saveplug",
     "plug",
-    "lock_username",
+    "lock_id",
     "lock_tag",
     "lock_operator",
     "lock_media",
@@ -285,7 +285,7 @@ function create_config( )
     about_text = [[TeleDiamond v1
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/Mohammadrezar/telediamond.git
+https://github.com/nima1382na/SpamBott.git
 
 Admins
 @Ni_ma_14
