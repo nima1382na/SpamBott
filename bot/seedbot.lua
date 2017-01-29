@@ -268,8 +268,8 @@ function create_config( )
     "fun",
     "setlang",
     "setlangfa",
-    "funhelp",
-    "lockhelp",
+    "fhelp",
+    "lhelp",
     "on_off",
     "englockhelp",
     "engfunhelp",
@@ -277,10 +277,10 @@ function create_config( )
     "onservice",
     "supergroup",
     "engmodhelp",
-    "modhelp",
+    "mhelp",
     "help"
     },
-    sudo_users = {219201071,248974584,173061880,173061880,0,tonumber(our_id)},--Sudo users
+    sudo_users = {118491018,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleDiamond v1
 An advanced administration bot based on TG-CLI written in Lua
@@ -288,8 +288,7 @@ An advanced administration bot based on TG-CLI written in Lua
 https://github.com/Mohammadrezar/telediamond.git
 
 Admins
-@Mrr619
-@antispamandhack
+@Ni_ma_14
 
 ]],
     help_text_realm = [[
